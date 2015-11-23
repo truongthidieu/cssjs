@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhooi1606.blogspot.com/' target='_blank'><img src='http://c1.f17.img.vnecdn.net/2015/04/23/6-6687-1429778309.jpg' width='500px'/>Quần áo sành điệu</a>. Ban. <h2><a class='close-linhnguyen-modal'>X</a></h2>");Bán tại quận tân bình
+			$("#myModal").html("<a href='http://nhooi1606.blogspot.com/' target='_blank'><img src='http://c1.f17.img.vnecdn.net/2015/04/23/6-6687-1429778309.jpg' width='500px'/>Quần áo sành điệu</a>.  Bán tại Tân Bình. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
